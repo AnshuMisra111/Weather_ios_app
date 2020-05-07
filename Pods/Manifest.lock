@@ -1,0 +1,22 @@
+PODS:
+  - Charts (3.1.1):
+    - Charts/Core (= 3.1.1)
+  - Charts/Core (3.1.1)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Charts (= 3.1.1)
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Charts: 90a4d61da0f6e06684c591e3bcab11940fe61736
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: bf88c6cdbf7468f024ac3215facd7336313da8e6
+
+COCOAPODS: 1.8.4
